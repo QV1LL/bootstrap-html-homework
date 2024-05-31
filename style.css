@@ -6,5 +6,14 @@
 .header__container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   width: 800px;
+}
+
+.header__title-img {
+  height: 50px;
+}
+
+.navbar {
+  justify-content: flex-end;
 }
