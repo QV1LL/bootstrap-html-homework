@@ -1,12 +1,4 @@
-.header {
-  display: flex;
-  justify-content: space-evenly;
-}
-
 .header__container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   width: 800px;
 }
 
@@ -14,6 +6,6 @@
   height: 50px;
 }
 
-.navbar {
-  justify-content: flex-end;
+.content {
+  width: 800px;
 }
